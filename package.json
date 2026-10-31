@@ -12,6 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.12.0",
     "@tanstack/react-query": "^5.102.8",
+    "axios": "^1.21.0",
     "daisyui": "^5.7.50",
     "dayjs": "^1.11.23",
     "react": "^19.2.8",
